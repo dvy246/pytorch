@@ -5,7 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "agno>=2.3.26",
     "matplotlib>=3.10.8",
+    "nltk>=3.9.2",
     "numpy>=2.4.0",
     "optuna>=4.6.0",
     "pandas>=2.3.3",
